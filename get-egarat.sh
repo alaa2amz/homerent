@@ -21,7 +21,7 @@ awk 	-v water_fee=$water_fee \
 	if(NR==1||$1==""){next};
 	"awk   \"/^"$3"/{print \\$2}\"   "elec_file|getline elec; 
 	#print $3,elec; 
-	printf("No: %d\tName: Mr. %s %3d\tEgar: %4d\tElec: %4d\tWater: %d\tSellem: %d\tBadrom: %d\tNadafah: %d\tTOTAL %d\n\n", 
+	printf("=====\nNo:\t%8d\nName:\tMr. %s %3d\nEgar:\t%8.2f\nElec:\t%8.2f\nWater:\t%8.2f\nSellem:\t%8.2f\nBadrom:\t%8.2f\nNadafa:\t%8.2f\nTOTAL:\t%8.2f\n=====\n", 
 	$1,
 	$2,
 	$3,

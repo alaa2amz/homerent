@@ -1,3 +1,11 @@
+for app in date tr awk cat 
+do
+	if ! type $app 
+	then
+		echo $app is required
+		exit
+	fi
+	done
 current_month=`date +%Y/%m`
 cleaning=50
 elec_prefix='elec'

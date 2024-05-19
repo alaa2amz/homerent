@@ -1,0 +1,93 @@
+date is /usr/bin/date
+tr is /usr/bin/tr
+awk is /usr/bin/awk
+cat is /usr/bin/cat
+b 384.0 s 28.0 w 159.0
+=====
+No:	       1
+Name:	Mr. nash'at 787
+Egar:	 4100.00
+Elec:	   60.00
+Water:	   21.20
+Sellem:	    4.00
+Badrom:	   54.86
+Nadafa:	   50.00
+TOTAL:	 4290.06
+=====
+=====
+No:	       2
+Name:	Mr. amany 788
+Egar:	    0.00
+Elec:	  457.00
+Water:	   21.20
+Sellem:	    4.00
+Badrom:	   54.86
+Nadafa:	   50.00
+TOTAL:	  587.06
+=====
+=====
+No:	       3
+Name:	Mr. mohamed 794
+Egar:	    0.00
+Elec:	  373.00
+Water:	   21.20
+Sellem:	    4.00
+Badrom:	   54.86
+Nadafa:	   50.00
+TOTAL:	  503.06
+=====
+=====
+No:	       4
+Name:	Mr. mohamed   0
+Egar:	    0.00
+Elec:	    0.00
+Water:	   21.20
+Sellem:	    4.00
+Badrom:	   54.86
+Nadafa:	   50.00
+TOTAL:	  130.06
+=====
+=====
+No:	       5
+Name:	Mr. a.ezzat 791
+Egar:	 4500.00
+Elec:	  394.00
+Water:	   21.20
+Sellem:	    4.00
+Badrom:	   54.86
+Nadafa:	   50.00
+TOTAL:	 5024.06
+=====
+=====
+No:	       6
+Name:	Mr. alaa 792
+Egar:	    0.00
+Elec:	  137.40
+Water:	   21.20
+Sellem:	    4.00
+Badrom:	   54.86
+Nadafa:	   50.00
+TOTAL:	  267.46
+=====
+=====
+No:	       7
+Name:	Mr. mos-amr 793
+Egar:	 3600.00
+Elec:	 1162.00
+Water:	   21.20
+Sellem:	    4.00
+Badrom:	   54.86
+Nadafa:	   50.00
+TOTAL:	 4892.06
+=====
+=====
+No:	       8
+Name:	Mr. hany 795
+Egar:	 4300.00
+Elec:	  317.00
+Water:	   21.20
+Sellem:	    4.00
+Badrom:	   54.86
+Nadafa:	   50.00
+TOTAL:	 4747.06
+=====
